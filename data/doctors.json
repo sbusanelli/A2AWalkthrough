@@ -377,5 +377,1345 @@
             "Aetna",
             "Humana"
         ]
+    },
+    {
+        "id": "DOC012",
+        "name": "Dr. Maria Garcia",
+        "specialty": "Family Medicine",
+        "address": {
+            "street": "789 Community Health Center",
+            "city": "San Antonio",
+            "state": "TX",
+            "zip_code": "78209"
+        },
+        "phone": "(210) 555-2345",
+        "email": "m.garcia@safamilyhealth.com",
+        "years_experience": 7,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "University Health System",
+            "Methodist Healthcare"
+        ],
+        "education": {
+            "medical_school": "University of Texas Health Science Center",
+            "residency": "Baylor College of Medicine",
+            "fellowship": "None"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Medicaid",
+            "Medicare",
+            "UnitedHealth"
+        ]
+    },
+    {
+        "id": "DOC013",
+        "name": "Dr. Kevin O'Brien",
+        "specialty": "Gastroenterology",
+        "address": {
+            "street": "456 Digestive Health Way",
+            "city": "Portland",
+            "state": "OR",
+            "zip_code": "97205"
+        },
+        "phone": "(503) 555-6789",
+        "email": "k.obrien@portlandgi.com",
+        "years_experience": 19,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Oregon Health & Science University",
+            "Providence Portland Medical Center"
+        ],
+        "education": {
+            "medical_school": "Oregon Health & Science University",
+            "residency": "Mayo Clinic",
+            "fellowship": "Cleveland Clinic"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": false,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "Cigna",
+            "UnitedHealth"
+        ]
+    },
+    {
+        "id": "DOC014",
+        "name": "Dr. Yuki Tanaka",
+        "specialty": "Rheumatology",
+        "address": {
+            "street": "234 Autoimmune Center",
+            "city": "San Francisco",
+            "state": "CA",
+            "zip_code": "94102"
+        },
+        "phone": "(415) 555-8901",
+        "email": "y.tanaka@sfarthritis.com",
+        "years_experience": 11,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "UCSF Medical Center",
+            "California Pacific Medical Center"
+        ],
+        "education": {
+            "medical_school": "UCSF School of Medicine",
+            "residency": "Stanford Hospital",
+            "fellowship": "Brigham and Women's Hospital"
+        },
+        "languages": [
+            "English",
+            "Japanese"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Cigna"
+        ]
+    },
+    {
+        "id": "DOC015",
+        "name": "Dr. Rachel Green",
+        "specialty": "Endocrinology",
+        "address": {
+            "street": "567 Hormone Institute",
+            "city": "New York",
+            "state": "NY",
+            "zip_code": "10016"
+        },
+        "phone": "(212) 555-3456",
+        "email": "r.green@nyhormone.com",
+        "years_experience": 14,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Mount Sinai Hospital",
+            "NYU Langone Health"
+        ],
+        "education": {
+            "medical_school": "Weill Cornell Medicine",
+            "residency": "Columbia University Medical Center",
+            "fellowship": "Johns Hopkins Hospital"
+        },
+        "languages": [
+            "English",
+            "French"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Oxford"
+        ]
+    },
+    {
+        "id": "DOC016",
+        "name": "Dr. Ahmed Hassan",
+        "specialty": "Nephrology",
+        "address": {
+            "street": "890 Kidney Care Center",
+            "city": "Detroit",
+            "state": "MI",
+            "zip_code": "48201"
+        },
+        "phone": "(313) 555-7890",
+        "email": "a.hassan@detroitkidney.com",
+        "years_experience": 16,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Detroit Medical Center",
+            "Henry Ford Hospital"
+        ],
+        "education": {
+            "medical_school": "Wayne State University School of Medicine",
+            "residency": "University of Michigan Hospital",
+            "fellowship": "Mayo Clinic"
+        },
+        "languages": [
+            "English",
+            "Arabic"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Medicare",
+            "Medicaid",
+            "UnitedHealth"
+        ]
+    },
+    {
+        "id": "DOC017",
+        "name": "Dr. Susan Wright",
+        "specialty": "Pulmonology",
+        "address": {
+            "street": "123 Respiratory Specialists",
+            "city": "Charlotte",
+            "state": "NC",
+            "zip_code": "28202"
+        },
+        "phone": "(704) 555-4567",
+        "email": "s.wright@charlotterespiratory.com",
+        "years_experience": 20,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Atrium Health",
+            "Novant Health"
+        ],
+        "education": {
+            "medical_school": "University of North Carolina School of Medicine",
+            "residency": "Duke University Hospital",
+            "fellowship": "National Jewish Health"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": false,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "Cigna",
+            "UnitedHealth"
+        ]
+    },
+    {
+        "id": "DOC018",
+        "name": "Dr. James Park",
+        "specialty": "Infectious Disease",
+        "address": {
+            "street": "456 Infectious Disease Clinic",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip_code": "19102"
+        },
+        "phone": "(215) 555-5678",
+        "email": "j.park@phillyinfectious.com",
+        "years_experience": 9,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Hospital of the University of Pennsylvania",
+            "Thomas Jefferson University Hospital"
+        ],
+        "education": {
+            "medical_school": "Perelman School of Medicine",
+            "residency": "Massachusetts General Hospital",
+            "fellowship": "NIH"
+        },
+        "languages": [
+            "English",
+            "Korean"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Medicare"
+        ]
+    },
+    {
+        "id": "DOC019",
+        "name": "Dr. Linda Martinez",
+        "specialty": "Geriatrics",
+        "address": {
+            "street": "789 Senior Health Center",
+            "city": "Tucson",
+            "state": "AZ",
+            "zip_code": "85701"
+        },
+        "phone": "(520) 555-8901",
+        "email": "l.martinez@tucsonsengeriatrics.com",
+        "years_experience": 12,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Banner University Medical Center",
+            "Tucson Medical Center"
+        ],
+        "education": {
+            "medical_school": "University of Arizona College of Medicine",
+            "residency": "Mayo Clinic",
+            "fellowship": "Johns Hopkins Hospital"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Medicare",
+            "Medicaid",
+            "Aetna"
+        ]
+    },
+    {
+        "id": "DOC020",
+        "name": "Dr. William Chen",
+        "specialty": "Allergy & Immunology",
+        "address": {
+            "street": "234 Allergy & Asthma Center",
+            "city": "San Diego",
+            "state": "CA",
+            "zip_code": "92101"
+        },
+        "phone": "(619) 555-2345",
+        "email": "w.chen@sdallergy.com",
+        "years_experience": 8,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "UC San Diego Health",
+            "Scripps Health"
+        ],
+        "education": {
+            "medical_school": "UC San Diego School of Medicine",
+            "residency": "Stanford Hospital",
+            "fellowship": "National Jewish Health"
+        },
+        "languages": [
+            "English",
+            "Mandarin"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "Cigna",
+            "UnitedHealth"
+        ]
+    },
+    {
+        "id": "DOC021",
+        "name": "Dr. Jennifer Adams",
+        "specialty": "Cardiology",
+        "address": {
+            "street": "890 Heart Care Center",
+            "city": "Dallas",
+            "state": "TX",
+            "zip_code": "75201"
+        },
+        "phone": "(214) 555-3456",
+        "email": "j.adams@dallasheart.com",
+        "years_experience": 17,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "UT Southwestern Medical Center",
+            "Baylor University Medical Center"
+        ],
+        "education": {
+            "medical_school": "UT Southwestern Medical School",
+            "residency": "Mayo Clinic",
+            "fellowship": "Cleveland Clinic"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Cigna"
+        ]
+    },
+    {
+        "id": "DOC022",
+        "name": "Dr. Robert Kim Jr.",
+        "specialty": "Neurology",
+        "address": {
+            "street": "456 Neurology Associates",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip_code": "90012"
+        },
+        "phone": "(323) 555-6789",
+        "email": "r.kim@laneurology.com",
+        "years_experience": 12,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "UCLA Medical Center",
+            "Cedars-Sinai Medical Center"
+        ],
+        "education": {
+            "medical_school": "David Geffen School of Medicine",
+            "residency": "UCSF Medical Center",
+            "fellowship": "Massachusetts General Hospital"
+        },
+        "languages": [
+            "English",
+            "Korean"
+        ],
+        "accepts_new_patients": false,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth"
+        ]
+    },
+    {
+        "id": "DOC023",
+        "name": "Dr. Sarah Johnson",
+        "specialty": "Pediatrics",
+        "address": {
+            "street": "789 Kids Care Clinic",
+            "city": "Chicago",
+            "state": "IL",
+            "zip_code": "60614"
+        },
+        "phone": "(312) 555-8901",
+        "email": "s.johnson@chicagopeds.com",
+        "years_experience": 10,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Lurie Children's Hospital",
+            "Northwestern Memorial Hospital"
+        ],
+        "education": {
+            "medical_school": "University of Chicago Pritzker School of Medicine",
+            "residency": "Children's Hospital of Philadelphia",
+            "fellowship": "None"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Medicaid",
+            "UnitedHealth",
+            "Aetna"
+        ]
+    },
+    {
+        "id": "DOC024",
+        "name": "Dr. Michael Brown",
+        "specialty": "Orthopedic Surgery",
+        "address": {
+            "street": "123 Sports Medicine Institute",
+            "city": "Miami",
+            "state": "FL",
+            "zip_code": "33101"
+        },
+        "phone": "(305) 555-2345",
+        "email": "m.brown@miamisportsmed.com",
+        "years_experience": 25,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Jackson Memorial Hospital",
+            "Baptist Hospital of Miami"
+        ],
+        "education": {
+            "medical_school": "University of Miami Miller School of Medicine",
+            "residency": "Hospital for Special Surgery",
+            "fellowship": "Mayo Clinic"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "Cigna",
+            "Workers' Compensation"
+        ]
+    },
+    {
+        "id": "DOC025",
+        "name": "Dr. Emily White",
+        "specialty": "Dermatology",
+        "address": {
+            "street": "567 Skin Care Center",
+            "city": "Seattle",
+            "state": "WA",
+            "zip_code": "98101"
+        },
+        "phone": "(206) 555-4567",
+        "email": "e.white@seattleskin.com",
+        "years_experience": 14,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "University of Washington Medical Center",
+            "Swedish Medical Center"
+        ],
+        "education": {
+            "medical_school": "University of Washington School of Medicine",
+            "residency": "Stanford Hospital",
+            "fellowship": "NYU Langone Health"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Cigna"
+        ]
+    },
+    {
+        "id": "DOC026",
+        "name": "Dr. David Martinez",
+        "specialty": "Internal Medicine",
+        "address": {
+            "street": "890 Primary Care Associates",
+            "city": "Houston",
+            "state": "TX",
+            "zip_code": "77002"
+        },
+        "phone": "(713) 555-6789",
+        "email": "d.martinez@houstonprimary.com",
+        "years_experience": 9,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Houston Methodist Hospital",
+            "Memorial Hermann"
+        ],
+        "education": {
+            "medical_school": "Baylor College of Medicine",
+            "residency": "Massachusetts General Hospital",
+            "fellowship": "None"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Medicare",
+            "Medicaid",
+            "Humana"
+        ]
+    },
+    {
+        "id": "DOC027",
+        "name": "Dr. Lisa Thompson",
+        "specialty": "Obstetrics & Gynecology",
+        "address": {
+            "street": "234 Women's Health Center",
+            "city": "Denver",
+            "state": "CO",
+            "zip_code": "80202"
+        },
+        "phone": "(303) 555-8901",
+        "email": "l.thompson@denverwomenshealth.com",
+        "years_experience": 16,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "UCHealth University of Colorado Hospital",
+            "Presbyterian/Saint Joseph Hospital"
+        ],
+        "education": {
+            "medical_school": "University of Colorado School of Medicine",
+            "residency": "Brigham and Women's Hospital",
+            "fellowship": "Mayo Clinic"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Cigna"
+        ]
+    },
+    {
+        "id": "DOC028",
+        "name": "Dr. James Wilson",
+        "specialty": "Emergency Medicine",
+        "address": {
+            "street": "456 Emergency Services",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip_code": "85001"
+        },
+        "phone": "(602) 555-2345",
+        "email": "j.wilson@phoenixemergency.com",
+        "years_experience": 13,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Banner University Medical Center",
+            "Mayo Clinic Hospital"
+        ],
+        "education": {
+            "medical_school": "University of Arizona College of Medicine",
+            "residency": "Cook County Hospital",
+            "fellowship": "None"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "All major insurances accepted",
+            "Self-pay"
+        ]
+    },
+    {
+        "id": "DOC029",
+        "name": "Dr. Amanda Lee",
+        "specialty": "Psychiatry",
+        "address": {
+            "street": "789 Mental Health Center",
+            "city": "Atlanta",
+            "state": "GA",
+            "zip_code": "30301"
+        },
+        "phone": "(404) 555-4567",
+        "email": "a.lee@atlantamentalhealth.com",
+        "years_experience": 11,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Emory University Hospital",
+            "Grady Memorial Hospital"
+        ],
+        "education": {
+            "medical_school": "Emory University School of Medicine",
+            "residency": "Massachusetts General Hospital",
+            "fellowship": "McLean Hospital"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Cigna"
+        ]
+    },
+    {
+        "id": "DOC030",
+        "name": "Dr. Christopher Davis",
+        "specialty": "Oncology",
+        "address": {
+            "street": "123 Cancer Treatment Center",
+            "city": "Boston",
+            "state": "MA",
+            "zip_code": "02101"
+        },
+        "phone": "(617) 555-6789",
+        "email": "c.davis@bostoncancer.com",
+        "years_experience": 18,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Dana-Farber Cancer Institute",
+            "Massachusetts General Hospital"
+        ],
+        "education": {
+            "medical_school": "Harvard Medical School",
+            "residency": "Brigham and Women's Hospital",
+            "fellowship": "Memorial Sloan Kettering Cancer Center"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": false,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Medicare"
+        ]
+    },
+    {
+        "id": "DOC031",
+        "name": "Dr. Rachel Clark",
+        "specialty": "Family Medicine",
+        "address": {
+            "street": "567 Family Health Center",
+            "city": "Minneapolis",
+            "state": "MN",
+            "zip_code": "55401"
+        },
+        "phone": "(612) 555-8901",
+        "email": "r.clark@minneapolisfhealth.com",
+        "years_experience": 8,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Mayo Clinic",
+            "University of Minnesota Medical Center"
+        ],
+        "education": {
+            "medical_school": "University of Minnesota Medical School",
+            "residency": "Mayo Clinic",
+            "fellowship": "None"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Medicare",
+            "Medicaid",
+            "UnitedHealth"
+        ]
+    },
+    {
+        "id": "DOC032",
+        "name": "Dr. Thomas Anderson",
+        "specialty": "Gastroenterology",
+        "address": {
+            "street": "890 Digestive Health Center",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip_code": "19101"
+        },
+        "phone": "(215) 555-2345",
+        "email": "t.anderson@phillygi.com",
+        "years_experience": 21,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Hospital of the University of Pennsylvania",
+            "Thomas Jefferson University Hospital"
+        ],
+        "education": {
+            "medical_school": "Perelman School of Medicine",
+            "residency": "Massachusetts General Hospital",
+            "fellowship": "Mayo Clinic"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": false,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "Cigna",
+            "UnitedHealth"
+        ]
+    },
+    {
+        "id": "DOC033",
+        "name": "Dr. Michelle Rodriguez",
+        "specialty": "Rheumatology",
+        "address": {
+            "street": "234 Arthritis Center",
+            "city": "San Antonio",
+            "state": "TX",
+            "zip_code": "78201"
+        },
+        "phone": "(210) 555-4567",
+        "email": "m.rodriguez@saarthritis.com",
+        "years_experience": 13,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "University Health System",
+            "Methodist Healthcare"
+        ],
+        "education": {
+            "medical_school": "University of Texas Health Science Center",
+            "residency": "Baylor College of Medicine",
+            "fellowship": "Johns Hopkins Hospital"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Cigna"
+        ]
+    },
+    {
+        "id": "DOC034",
+        "name": "Dr. Daniel Kim",
+        "specialty": "Endocrinology",
+        "address": {
+            "street": "456 Hormone Institute",
+            "city": "San Jose",
+            "state": "CA",
+            "zip_code": "95101"
+        },
+        "phone": "(408) 555-6789",
+        "email": "d.kim@sjhormone.com",
+        "years_experience": 15,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Stanford Health Care",
+            "Santa Clara Valley Medical Center"
+        ],
+        "education": {
+            "medical_school": "Stanford University School of Medicine",
+            "residency": "UCSF Medical Center",
+            "fellowship": "NIH"
+        },
+        "languages": [
+            "English",
+            "Korean"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Cigna"
+        ]
+    },
+    {
+        "id": "DOC035",
+        "name": "Dr. Patricia Williams",
+        "specialty": "Nephrology",
+        "address": {
+            "street": "789 Kidney Care Center",
+            "city": "Baltimore",
+            "state": "MD",
+            "zip_code": "21201"
+        },
+        "phone": "(410) 555-8901",
+        "email": "p.williams@baltimorekidney.com",
+        "years_experience": 19,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Johns Hopkins Hospital",
+            "University of Maryland Medical Center"
+        ],
+        "education": {
+            "medical_school": "Johns Hopkins School of Medicine",
+            "residency": "Massachusetts General Hospital",
+            "fellowship": "Mayo Clinic"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Medicare",
+            "Medicaid",
+            "UnitedHealth"
+        ]
+    },
+    {
+        "id": "DOC036",
+        "name": "Dr. Mark Thompson",
+        "specialty": "Pulmonology",
+        "address": {
+            "street": "123 Respiratory Specialists",
+            "city": "Columbus",
+            "state": "OH",
+            "zip_code": "43201"
+        },
+        "phone": "(614) 555-2345",
+        "email": "m.thompson@columbusrespiratory.com",
+        "years_experience": 22,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Ohio State University Wexner Medical Center",
+            "Nationwide Children's Hospital"
+        ],
+        "education": {
+            "medical_school": "Ohio State University College of Medicine",
+            "residency": "Cleveland Clinic",
+            "fellowship": "National Jewish Health"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": false,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "Cigna",
+            "UnitedHealth"
+        ]
+    },
+    {
+        "id": "DOC037",
+        "name": "Dr. Elizabeth Garcia",
+        "specialty": "Infectious Disease",
+        "address": {
+            "street": "567 Infectious Disease Clinic",
+            "city": "Orlando",
+            "state": "FL",
+            "zip_code": "32801"
+        },
+        "phone": "(407) 555-4567",
+        "email": "e.garcia@orlandoinfectious.com",
+        "years_experience": 10,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Orlando Health",
+            "AdventHealth"
+        ],
+        "education": {
+            "medical_school": "University of Florida College of Medicine",
+            "residency": "Massachusetts General Hospital",
+            "fellowship": "NIH"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Medicare"
+        ]
+    },
+    {
+        "id": "DOC038",
+        "name": "Dr. Richard Lee",
+        "specialty": "Geriatrics",
+        "address": {
+            "street": "890 Senior Health Center",
+            "city": "Portland",
+            "state": "OR",
+            "zip_code": "97201"
+        },
+        "phone": "(503) 555-6789",
+        "email": "r.lee@portlandsenior.com",
+        "years_experience": 14,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Oregon Health & Science University",
+            "Providence Portland Medical Center"
+        ],
+        "education": {
+            "medical_school": "Oregon Health & Science University",
+            "residency": "Mayo Clinic",
+            "fellowship": "Johns Hopkins Hospital"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Medicare",
+            "Medicaid",
+            "Aetna"
+        ]
+    },
+    {
+        "id": "DOC039",
+        "name": "Dr. Susan Chen",
+        "specialty": "Allergy & Immunology",
+        "address": {
+            "street": "234 Allergy & Asthma Center",
+            "city": "Las Vegas",
+            "state": "NV",
+            "zip_code": "89101"
+        },
+        "phone": "(702) 555-8901",
+        "email": "s.chen@lasvegasallergy.com",
+        "years_experience": 9,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "University Medical Center of Southern Nevada",
+            "Sunrise Hospital"
+        ],
+        "education": {
+            "medical_school": "University of Nevada School of Medicine",
+            "residency": "Stanford Hospital",
+            "fellowship": "National Jewish Health"
+        },
+        "languages": [
+            "English",
+            "Mandarin"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "Cigna",
+            "UnitedHealth"
+        ]
+    },
+    {
+        "id": "DOC040",
+        "name": "Dr. John Martinez",
+        "specialty": "Cardiology",
+        "address": {
+            "street": "456 Heart Care Center",
+            "city": "Charlotte",
+            "state": "NC",
+            "zip_code": "28201"
+        },
+        "phone": "(704) 555-2345",
+        "email": "j.martinez@charlotteheart.com",
+        "years_experience": 16,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Atrium Health",
+            "Novant Health"
+        ],
+        "education": {
+            "medical_school": "University of North Carolina School of Medicine",
+            "residency": "Duke University Hospital",
+            "fellowship": "Cleveland Clinic"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Cigna"
+        ]
+    },
+    {
+        "id": "DOC041",
+        "name": "Dr. Karen White",
+        "specialty": "Neurology",
+        "address": {
+            "street": "789 Neurology Associates",
+            "city": "Nashville",
+            "state": "TN",
+            "zip_code": "37201"
+        },
+        "phone": "(615) 555-4567",
+        "email": "k.white@nashvilleneuro.com",
+        "years_experience": 11,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Vanderbilt University Medical Center",
+            "Saint Thomas Health"
+        ],
+        "education": {
+            "medical_school": "Vanderbilt University School of Medicine",
+            "residency": "UCSF Medical Center",
+            "fellowship": "Massachusetts General Hospital"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": false,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth"
+        ]
+    },
+    {
+        "id": "DOC042",
+        "name": "Dr. Steven Brown",
+        "specialty": "Pediatrics",
+        "address": {
+            "street": "123 Kids Care Clinic",
+            "city": "San Diego",
+            "state": "CA",
+            "zip_code": "92101"
+        },
+        "phone": "(619) 555-6789",
+        "email": "s.brown@sdkids.com",
+        "years_experience": 7,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Rady Children's Hospital",
+            "UC San Diego Health"
+        ],
+        "education": {
+            "medical_school": "UC San Diego School of Medicine",
+            "residency": "Children's Hospital of Philadelphia",
+            "fellowship": "None"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Medicaid",
+            "UnitedHealth",
+            "Aetna"
+        ]
+    },
+    {
+        "id": "DOC043",
+        "name": "Dr. Nancy Davis",
+        "specialty": "Orthopedic Surgery",
+        "address": {
+            "street": "567 Sports Medicine Institute",
+            "city": "Seattle",
+            "state": "WA",
+            "zip_code": "98101"
+        },
+        "phone": "(206) 555-8901",
+        "email": "n.davis@seattlesportsmed.com",
+        "years_experience": 23,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "University of Washington Medical Center",
+            "Swedish Medical Center"
+        ],
+        "education": {
+            "medical_school": "University of Washington School of Medicine",
+            "residency": "Hospital for Special Surgery",
+            "fellowship": "Mayo Clinic"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "Cigna",
+            "Workers' Compensation"
+        ]
+    },
+    {
+        "id": "DOC044",
+        "name": "Dr. George Miller",
+        "specialty": "Dermatology",
+        "address": {
+            "street": "890 Skin Care Center",
+            "city": "Austin",
+            "state": "TX",
+            "zip_code": "78701"
+        },
+        "phone": "(512) 555-2345",
+        "email": "g.miller@austinskin.com",
+        "years_experience": 15,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Dell Medical School",
+            "Ascension Seton Medical Center"
+        ],
+        "education": {
+            "medical_school": "UT Southwestern Medical School",
+            "residency": "Stanford Hospital",
+            "fellowship": "NYU Langone Health"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Cigna"
+        ]
+    },
+    {
+        "id": "DOC045",
+        "name": "Dr. Barbara Wilson",
+        "specialty": "Internal Medicine",
+        "address": {
+            "street": "234 Primary Care Associates",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip_code": "85001"
+        },
+        "phone": "(602) 555-4567",
+        "email": "b.wilson@phoenixprimary.com",
+        "years_experience": 10,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Banner University Medical Center",
+            "Mayo Clinic Hospital"
+        ],
+        "education": {
+            "medical_school": "University of Arizona College of Medicine",
+            "residency": "Massachusetts General Hospital",
+            "fellowship": "None"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Medicare",
+            "Medicaid",
+            "Humana"
+        ]
+    },
+    {
+        "id": "DOC046",
+        "name": "Dr. Donald Moore",
+        "specialty": "Obstetrics & Gynecology",
+        "address": {
+            "street": "456 Women's Health Center",
+            "city": "Atlanta",
+            "state": "GA",
+            "zip_code": "30301"
+        },
+        "phone": "(404) 555-6789",
+        "email": "d.moore@atlantawomenshealth.com",
+        "years_experience": 17,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Emory University Hospital",
+            "Northside Hospital"
+        ],
+        "education": {
+            "medical_school": "Emory University School of Medicine",
+            "residency": "Brigham and Women's Hospital",
+            "fellowship": "Mayo Clinic"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Cigna"
+        ]
+    },
+    {
+        "id": "DOC047",
+        "name": "Dr. Lisa Taylor",
+        "specialty": "Emergency Medicine",
+        "address": {
+            "street": "789 Emergency Services",
+            "city": "Denver",
+            "state": "CO",
+            "zip_code": "80201"
+        },
+        "phone": "(303) 555-8901",
+        "email": "l.taylor@denveremergency.com",
+        "years_experience": 12,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "UCHealth University of Colorado Hospital",
+            "Denver Health Medical Center"
+        ],
+        "education": {
+            "medical_school": "University of Colorado School of Medicine",
+            "residency": "Cook County Hospital",
+            "fellowship": "None"
+        },
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "All major insurances accepted",
+            "Self-pay"
+        ]
+    },
+    {
+        "id": "DOC048",
+        "name": "Dr. Kevin Anderson",
+        "specialty": "Psychiatry",
+        "address": {
+            "street": "123 Mental Health Center",
+            "city": "Chicago",
+            "state": "IL",
+            "zip_code": "60601"
+        },
+        "phone": "(312) 555-2345",
+        "email": "k.anderson@chicagomentalhealth.com",
+        "years_experience": 14,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Northwestern Memorial Hospital",
+            "Rush University Medical Center"
+        ],
+        "education": {
+            "medical_school": "Northwestern University Feinberg School of Medicine",
+            "residency": "Massachusetts General Hospital",
+            "fellowship": "McLean Hospital"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Cigna"
+        ]
+    },
+    {
+        "id": "DOC049",
+        "name": "Dr. Michelle Thomas",
+        "specialty": "Oncology",
+        "address": {
+            "street": "567 Cancer Treatment Center",
+            "city": "Houston",
+            "state": "TX",
+            "zip_code": "77001"
+        },
+        "phone": "(713) 555-4567",
+        "email": "m.thomas@houstoncancer.com",
+        "years_experience": 20,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "MD Anderson Cancer Center",
+            "Houston Methodist Hospital"
+        ],
+        "education": {
+            "medical_school": "Baylor College of Medicine",
+            "residency": "Brigham and Women's Hospital",
+            "fellowship": "Memorial Sloan Kettering Cancer Center"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": false,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Aetna",
+            "UnitedHealth",
+            "Medicare"
+        ]
+    },
+    {
+        "id": "DOC050",
+        "name": "Dr. Robert Jackson",
+        "specialty": "Family Medicine",
+        "address": {
+            "street": "890 Family Health Center",
+            "city": "Boston",
+            "state": "MA",
+            "zip_code": "02101"
+        },
+        "phone": "(617) 555-6789",
+        "email": "r.jackson@bostonfhealth.com",
+        "years_experience": 11,
+        "board_certified": true,
+        "hospital_affiliations": [
+            "Massachusetts General Hospital",
+            "Brigham and Women's Hospital"
+        ],
+        "education": {
+            "medical_school": "Harvard Medical School",
+            "residency": "Massachusetts General Hospital",
+            "fellowship": "None"
+        },
+        "languages": [
+            "English"
+        ],
+        "accepts_new_patients": true,
+        "insurance_accepted": [
+            "Blue Cross Blue Shield",
+            "Medicare",
+            "Medicaid",
+            "UnitedHealth"
+        ]
     }
 ]

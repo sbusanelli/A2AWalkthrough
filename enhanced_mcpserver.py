@@ -25,18 +25,174 @@ availability_data = {
     "DOC011": {
         "next_available": "2026-05-04",
         "available_times": ["10:00", "13:00", "15:00", "17:00"]
+    },
+    "DOC012": {
+        "next_available": "2026-05-04",
+        "available_times": ["08:30", "10:30", "14:30", "16:30"]
+    },
+    "DOC013": {
+        "next_available": "2026-05-15",
+        "available_times": ["09:00", "11:00", "14:00"]
+    },
+    "DOC014": {
+        "next_available": "2026-05-05",
+        "available_times": ["10:00", "13:00", "15:00", "17:00"]
+    },
+    "DOC015": {
+        "next_available": "2026-05-07",
+        "available_times": ["08:00", "10:00", "13:00", "15:00"]
+    },
+    "DOC016": {
+        "next_available": "2026-05-04",
+        "available_times": ["09:00", "11:00", "14:00", "16:00"]
+    },
+    "DOC017": {
+        "next_available": "2026-05-20",
+        "available_times": ["10:00", "13:00"]
+    },
+    "DOC018": {
+        "next_available": "2026-05-06",
+        "available_times": ["08:00", "10:00", "13:00", "15:00"]
+    },
+    "DOC019": {
+        "next_available": "2026-05-05",
+        "available_times": ["09:00", "11:00", "14:00", "16:00"]
+    },
+    "DOC020": {
+        "next_available": "2026-05-08",
+        "available_times": ["10:00", "13:00", "15:00", "17:00"]
+    },
+    "DOC021": {
+        "next_available": "2026-05-06",
+        "available_times": ["08:00", "10:00", "13:00", "15:00"]
+    },
+    "DOC022": {
+        "next_available": "2026-05-18",
+        "available_times": ["09:00", "11:00", "14:00"]
+    },
+    "DOC023": {
+        "next_available": "2026-05-05",
+        "available_times": ["08:30", "10:30", "14:30", "16:30"]
+    },
+    "DOC024": {
+        "next_available": "2026-05-10",
+        "available_times": ["09:00", "11:00", "14:00"]
+    },
+    "DOC025": {
+        "next_available": "2026-05-07",
+        "available_times": ["10:00", "13:00", "15:00", "17:00"]
+    },
+    "DOC026": {
+        "next_available": "2026-05-04",
+        "available_times": ["08:00", "10:00", "13:00", "15:00"]
+    },
+    "DOC027": {
+        "next_available": "2026-05-09",
+        "available_times": ["09:00", "11:00", "14:00", "16:00"]
+    },
+    "DOC028": {
+        "next_available": "2026-05-04",
+        "available_times": ["24/7 Emergency"]
+    },
+    "DOC029": {
+        "next_available": "2026-05-05",
+        "available_times": ["10:00", "13:00", "15:00", "17:00"]
+    },
+    "DOC030": {
+        "next_available": "2026-05-25",
+        "available_times": ["09:00", "11:00"]
+    },
+    "DOC031": {
+        "next_available": "2026-05-06",
+        "available_times": ["08:00", "10:00", "13:00", "15:00"]
+    },
+    "DOC032": {
+        "next_available": "2026-05-22",
+        "available_times": ["10:00", "13:00"]
+    },
+    "DOC033": {
+        "next_available": "2026-05-08",
+        "available_times": ["09:00", "11:00", "14:00", "16:00"]
+    },
+    "DOC034": {
+        "next_available": "2026-05-07",
+        "available_times": ["08:30", "10:30", "14:30", "16:30"]
+    },
+    "DOC035": {
+        "next_available": "2026-05-05",
+        "available_times": ["09:00", "11:00", "14:00", "16:00"]
+    },
+    "DOC036": {
+        "next_available": "2026-05-30",
+        "available_times": ["10:00", "13:00"]
+    },
+    "DOC037": {
+        "next_available": "2026-05-06",
+        "available_times": ["08:00", "10:00", "13:00", "15:00"]
+    },
+    "DOC038": {
+        "next_available": "2026-05-09",
+        "available_times": ["09:00", "11:00", "14:00", "16:00"]
+    },
+    "DOC039": {
+        "next_available": "2026-05-07",
+        "available_times": ["10:00", "13:00", "15:00", "17:00"]
+    },
+    "DOC040": {
+        "next_available": "2026-05-08",
+        "available_times": ["08:00", "10:00", "13:00", "15:00"]
+    },
+    "DOC041": {
+        "next_available": "2026-05-16",
+        "available_times": ["09:00", "11:00", "14:00"]
+    },
+    "DOC042": {
+        "next_available": "2026-05-05",
+        "available_times": ["08:30", "10:30", "14:30", "16:30"]
+    },
+    "DOC043": {
+        "next_available": "2026-05-12",
+        "available_times": ["09:00", "11:00", "14:00"]
+    },
+    "DOC044": {
+        "next_available": "2026-05-04",
+        "available_times": ["10:00", "13:00", "15:00", "17:00"]
+    },
+    "DOC045": {
+        "next_available": "2026-05-06",
+        "available_times": ["08:00", "10:00", "13:00", "15:00"]
+    },
+    "DOC046": {
+        "next_available": "2026-05-09",
+        "available_times": ["09:00", "11:00", "14:00", "16:00"]
+    },
+    "DOC047": {
+        "next_available": "2026-05-04",
+        "available_times": ["24/7 Emergency"]
+    },
+    "DOC048": {
+        "next_available": "2026-05-07",
+        "available_times": ["10:00", "13:00", "15:00", "17:00"]
+    },
+    "DOC049": {
+        "next_available": "2026-05-28",
+        "available_times": ["09:00", "11:00"]
+    },
+    "DOC050": {
+        "next_available": "2026-05-05",
+        "available_times": ["08:00", "10:00", "13:00", "15:00"]
     }
 }
 
 # Mock insurance coverage data
 insurance_networks = {
-    "Blue Cross Blue Shield": ["DOC001", "DOC011", "DOC003", "DOC004", "DOC006", "DOC009", "DOC010"],
-    "Aetna": ["DOC001", "DOC002", "DOC004", "DOC006", "DOC011"],
-    "UnitedHealth": ["DOC001", "DOC002", "DOC003", "DOC010", "DOC011"],
-    "Cigna": ["DOC001", "DOC003", "DOC004", "DOC010"],
-    "Humana": ["DOC002", "DOC005", "DOC011"],
-    "Medicare": ["DOC005", "DOC010"],
-    "Medicaid": ["DOC002", "DOC005", "DOC007"]
+    "Blue Cross Blue Shield": ["DOC001", "DOC011", "DOC003", "DOC004", "DOC006", "DOC009", "DOC010", "DOC012", "DOC013", "DOC014", "DOC015", "DOC016", "DOC017", "DOC018", "DOC019", "DOC020", "DOC021", "DOC022", "DOC023", "DOC024", "DOC025", "DOC026", "DOC027", "DOC028", "DOC029", "DOC030", "DOC031", "DOC032", "DOC033", "DOC034", "DOC035", "DOC036", "DOC037", "DOC038", "DOC039", "DOC040", "DOC041", "DOC042", "DOC043", "DOC044", "DOC045", "DOC046", "DOC047", "DOC048", "DOC049", "DOC050"],
+    "Aetna": ["DOC001", "DOC002", "DOC004", "DOC006", "DOC011", "DOC012", "DOC013", "DOC014", "DOC015", "DOC016", "DOC017", "DOC018", "DOC019", "DOC020", "DOC021", "DOC022", "DOC023", "DOC024", "DOC025", "DOC026", "DOC027", "DOC028", "DOC029", "DOC030", "DOC031", "DOC032", "DOC033", "DOC034", "DOC035", "DOC036", "DOC037", "DOC038", "DOC039", "DOC040", "DOC041", "DOC042", "DOC043", "DOC044", "DOC045", "DOC046", "DOC047", "DOC048", "DOC049", "DOC050"],
+    "UnitedHealth": ["DOC001", "DOC002", "DOC003", "DOC010", "DOC011", "DOC012", "DOC014", "DOC015", "DOC016", "DOC017", "DOC018", "DOC020", "DOC021", "DOC022", "DOC023", "DOC024", "DOC025", "DOC026", "DOC027", "DOC028", "DOC029", "DOC030", "DOC031", "DOC032", "DOC033", "DOC034", "DOC035", "DOC036", "DOC037", "DOC038", "DOC039", "DOC040", "DOC041", "DOC042", "DOC043", "DOC044", "DOC045", "DOC046", "DOC047", "DOC048", "DOC049", "DOC050"],
+    "Cigna": ["DOC001", "DOC003", "DOC004", "DOC010", "DOC013", "DOC014", "DOC015", "DOC017", "DOC020", "DOC021", "DOC022", "DOC024", "DOC025", "DOC027", "DOC032", "DOC033", "DOC034", "DOC036", "DOC039", "DOC040", "DOC043", "DOC044", "DOC046", "DOC048"],
+    "Humana": ["DOC002", "DOC005", "DOC011", "DOC012", "DOC016", "DOC021", "DOC026", "DOC035", "DOC045"],
+    "Medicare": ["DOC005", "DOC010", "DOC012", "DOC016", "DOC018", "DOC019", "DOC026", "DOC030", "DOC035", "DOC037", "DOC038", "DOC045", "DOC049", "DOC050"],
+    "Medicaid": ["DOC002", "DOC005", "DOC007", "DOC012", "DOC016", "DOC019", "DOC023", "DOC026", "DOC035", "DOC038", "DOC042", "DOC045", "DOC050"]
 }
 
 @mcp.tool()
